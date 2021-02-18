@@ -1,0 +1,150 @@
+@media all and (max-width: 1280px){
+	.bd-select{
+		width: 53%;
+	}
+	.link{
+		width: 46%;
+		margin-left: 1px;
+	}
+	.middle ul li{
+		width: 15%;
+		line-height: 25px;
+	}
+}
+@media all and (max-width: 980px){
+	.signup-area{
+		padding: 40px 0;
+	}
+	.left-area{
+		width: 100%;
+		float: none;
+	}
+	.left-area p{
+		text-align: center;
+		margin: auto;
+		width: 60%;
+	}
+	.left-area img{
+		display: block;
+		width: 70%;
+		margin: auto;
+		margin-top: 20px;
+	}
+	.right-area{
+		width: 100%;
+	}
+	.right-area .heading {
+		text-align: center;
+	}
+	.bd-select{
+		width: 29%;
+	}
+	.link{
+		width: 70%;
+		margin-left: 1px;
+		margin-top: 5px;
+	}
+	.top ul li{
+		line-height: 28px;
+	}
+	.middle ul li{
+		line-height: 28px;
+		width: 20%;
+	}
+}
+@media all and (max-width: 800px){
+	.logo-area{
+		width: 100%;
+		float: none;
+		margin: 20px 0;
+	}
+	.logo-area img{
+		display: block;
+		margin: auto;
+	}
+	.login-area{
+		width: 100%;
+		float: none;
+	}
+	.login-area form{
+		float: none;
+		width: 370px;
+		margin: auto;
+	}
+	.bd-select{
+		width: 35%;
+	}
+	.link{
+		width: 63%;
+	}
+}
+@media all and (max-width: 768px){
+	.bd-select{
+		width: 36%;
+	}
+	.link{
+		width: 63%;
+	}
+}
+@media all and (max-width: 480px){
+	.container{
+		width: 80%;
+	}
+	.user-area{
+		float: none;
+	}
+	.pass-area{
+		float: none;
+	}
+	.submit-area{
+		float: none;
+	}
+	.login-area form{
+		width: 100%;
+	}
+	.login-area input{
+		width: 100%;
+		box-sizing: border-box;
+	}
+	.submit-area input[type="submit"]{
+		width: 18%;
+		margin-top: 5px;
+		margin-bottom: 10px;
+	}
+	.form input:nth-child(1){
+		width: 100%;
+	}
+	.form input:nth-child(2){
+		width: 100%;
+	}
+	.bd-select{
+		width: 100%;
+		float: none;
+	}
+	.link{
+		width: 100%;
+		margin-top: 10px;
+		float: none;
+	}
+	.top ul li{
+		line-height: 25px;
+		display: block;
+	}
+	.top ul li:nth-child(12) a{
+		width: 2%;
+	}
+	.middle ul li:nth-child(16){
+		display: inline-block;
+	}
+	.middle ul li{
+		width: 30%;
+		line-height: 30px;
+	}
+}
+@media all and (max-width: 360px){
+	.middle ul li{
+		width: 48%;
+		line-height: 30px;
+	}
+}
+
